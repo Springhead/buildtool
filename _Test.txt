@@ -1,2 +1,0 @@
-これは buildtool のレビジョンを上げるためだけのファイルです。
-これを push することで、Springhead からリンクされた buildtool は１つ古いレビジョンの buildtoolを指していることになります。
